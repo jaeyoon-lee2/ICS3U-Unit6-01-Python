@@ -2,13 +2,13 @@
 
 # Created by: Jaeyoon (Jay) Lee
 # Created on: Nov 2019
-# This program ...
+# This program displays 10 ramdom number with the array
 
 import random
 
 
 def main():
-    # this function ...
+    # this function displays 10 ramdom number with the array
 
     my_numbers = []
 
